@@ -1,2 +1,4 @@
 # ngame
 game
+
+emacs insert
